@@ -1,6 +1,5 @@
 # Prueba técnica
 
-Implementación de la prueba técnica para Zoco Compliance.
 
 API simple para administrar bares/eventos de Tucumán, con:
 - CRUD de lugares  
