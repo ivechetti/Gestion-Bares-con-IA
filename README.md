@@ -1,4 +1,4 @@
-# Prueba técnica – Zoco
+# Prueba técnica
 
 Implementación de la prueba técnica para Zoco Compliance.
 
